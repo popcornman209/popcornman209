@@ -1,1 +1,1 @@
-sup, i like to make random shit in python, lua (computercraft), and c++ for random stuff. currently my main project that i work on here is the ccDevice repository which is for computer craft.
+i like to make random shit in python, lua (computercraft mostly, other things too tho), c#, and maybe c++ for random stuff. currently my main project that i work on here is the ccDevice repository which is for computer craft but i got some other random things here too.
